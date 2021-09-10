@@ -20,6 +20,15 @@ def check(guess, answer):
     ball = ball-strike
     return strike, ball
 
+    # for i, g in enumerate(guess):
+    #     for j, a in enumerate(answer):
+    #         if guess[g] == answer[a]:
+    #                  if i==j: #자리가 같으면
+    #                      strike+=1
+    #                  else: #자리가 다르면
+    #                      ball +=1
+
+
 
     # for i in range(3):
     #     for j in range(3):
