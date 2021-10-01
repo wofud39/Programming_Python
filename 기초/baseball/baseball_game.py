@@ -1,5 +1,5 @@
 # 베이스볼 문제
-
+import random
 #정답제작: 0~9 세개 뽑기
 def make_answer():
     return "381"
@@ -7,7 +7,7 @@ def make_answer():
 def check(guess, answer):
     strike = 0
     ball = 0
-    guess[0] in answer
+
 
 
 
